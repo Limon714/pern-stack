@@ -2,7 +2,7 @@
 
 #To start using Node js
   
-  npm i
+  `npm i`
 
 
 
