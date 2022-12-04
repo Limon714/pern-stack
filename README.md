@@ -4,5 +4,7 @@
   
   `npm i`
 
-
+## Connect your Database 
+ `Postgres` 
+ `MySQL`
 
